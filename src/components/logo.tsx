@@ -24,7 +24,7 @@ export function LogoMark({ className }: { className?: string }) {
 export function Wordmark({ className }: { className?: string }) {
   return (
     <span className={cn("font-bold tracking-tight", className)}>
-      say<span className="text-pink">sab</span>
+      say<span className="text-pink">seb</span>
     </span>
   )
 }

@@ -1,4 +1,4 @@
-# saysab website
+# sayseb website
 
 React-Website (Vite, Tailwind, shadcn/ui, Framer Motion). Sprache der Seite: Englisch.
 

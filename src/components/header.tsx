@@ -15,7 +15,7 @@ export function Header() {
   return (
     <header className="sticky top-0 z-40 bg-navy/95 text-cream backdrop-blur">
       <div className="mx-auto flex max-w-7xl items-center justify-between gap-4 px-5 py-3 md:px-10">
-        <a href="#top" aria-label="saysab home">
+        <a href="#top" aria-label="sayseb home">
           <Logo onDark />
         </a>
         <nav className="flex items-center gap-1 md:gap-2" onMouseLeave={() => setHovered(null)}>

@@ -43,7 +43,7 @@ export const PLANS: { id: PlanId; name: string; line: string; monthly: number; y
 export const CONTACT = {
   name: "Selina Bährens",
   role: "Sales & Partnerships",
-  email: "selina.baehrens@saysab.de",
+  email: "selina.baehrens@sayseb.de",
   phone: "+49 2241 912 34 56",
   street: "Hauptstraße 21",
   city: "53757 Sankt Augustin",

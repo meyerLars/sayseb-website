@@ -78,7 +78,7 @@ export function Hero() {
         >
           <img
             src="img/pinguin.jpg"
-            alt="saysab penguin robot"
+            alt="sayseb penguin robot"
             className="h-[26rem] w-full object-cover object-top md:h-[44rem] md:rounded-tl-[3rem]"
           />
         </motion.div>
