@@ -3,7 +3,7 @@
 ## Lokal starten
 
 ```bash
-cd ~/Projekte/saysab-website
+cd ~/Projekte/sayseb-website
 npm install      # einmalig
 npm run dev
 ```
